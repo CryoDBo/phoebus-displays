@@ -1058,7 +1058,7 @@
     <actions>
       <action type="open_display">
         <description>Open Display</description>
-        <file>ValveControlPID2Intlk2PVs.bob</file>
+        <file>../Common/cryo-embedded-displays/ValveControlPID2Intlk2PVs.bob</file>
         <macros>
           <Var2>Temp</Var2>
           <Var1>Temp</Var1>
@@ -1110,7 +1110,7 @@
     <actions>
       <action type="open_display">
         <description>Open Display</description>
-        <file>ValveControlPID2Intlk2PVs.bob</file>
+        <file>../Common/cryo-embedded-displays/ValveControlPID2Intlk2PVs.bob</file>
         <macros>
           <Var2>Temp</Var2>
           <Var1>Pressure</Var1>
@@ -1162,7 +1162,7 @@
     <actions>
       <action type="open_display">
         <description>Open Display</description>
-        <file>ValveControlPID2Intlk2PVs.bob</file>
+        <file>../Common/cryo-embedded-displays/ValveControlPID2Intlk2PVs.bob</file>
         <macros>
           <Var2>Temp</Var2>
           <Var1>Temp</Var1>
@@ -1214,7 +1214,7 @@
     <actions>
       <action type="open_display">
         <description>Open Display</description>
-        <file>ValveControlPID2Intlk2PVs.bob</file>
+        <file>../Common/cryo-embedded-displays/ValveControlPID2Intlk2PVs.bob</file>
         <macros>
           <dev>PV617</dev>
           <PV1>FT600A</PV1>
